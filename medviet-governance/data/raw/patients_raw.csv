@@ -1,0 +1,401 @@
+patient_id,ho_ten,cccd,ngay_sinh,so_dien_thoai,email,dia_chi,benh,ket_qua_xet_nghiem,bac_si_phu_trach,ngay_kham
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Quang Phạm,925084955097,05/09/1945,0775290152,maijohn@example.net,"338 John Số
+Thị xã JaneThành phố, 895667",Tiểu đường,10.05,Quý cô Thành Vũ,28/01/2026
+1a2a73ed-562b-4f79-8374-59eef50bea63,Kim Trần,798717921809,12/09/1961,0735952418,jane07@example.net,"849 Hoàng Làng
+Thành phố JohnHuyện, 183667",Khỏe mạnh,5.7,Cô Hồng Vũ,23/03/2026
+5ec42e08-29a3-42e9-9d65-a441d58842de,Trung Đức Trần,086053231382,17/12/1979,0778805110,johnle@example.com,"5 John Đường
+JaneHuyện, 169403",Khỏe mạnh,8.3,Bà Mai Dương,13/03/2026
+24933b83-7577-40a9-a491-f0b2ea1fca65,Hoàng Phạm,157452416170,17/11/1989,0501018875,jane96@example.com,"7 John Ngõ
+Quận JaneXã, 166613",Khỏe mạnh,11.19,Kim Mai Mai,15/02/2026
+02f06b90-f143-462f-9c5c-0eed8da0365b,Hải Mai,263678153413,23/04/1990,0798862130,john46@example.org,"2 Jane Làng
+Huyện JohnXã, 916449",Khỏe mạnh,11.64,Duyên Đặng,29/03/2026
+e0f3eab0-5cec-4eb5-add9-68311ca35cfb,Quang Nguyễn,298630718954,28/01/1953,0515402059,tranjane@example.org,"Quận JaneXã
+89 Phạm Làng, 847581",Khỏe mạnh,6.5,Thành Đặng,20/03/2026
+3f76be1d-1efa-4197-b394-988f847fd9b4,Cô Linh Nguyễn,969550657181,10/06/1978,0967321599,johnnguyen@example.org,"105 John Khu
+JohnXã, 238739",Huyết áp cao,11.86,Anh Châu Bùi,04/02/2026
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,Kim Mai Nguyễn,083090773948,25/08/1984,0368530529,nguyenjane@example.net,"338 Lê Số
+Huyện JaneQuận, 179046",Huyết áp cao,10.04,Ông Hưng Mai,31/05/2026
+c0e9ab30-ed26-42e9-97e0-11b7f8102383,Chị Hồng Dương,052611963533,19/08/1970,0996745892,knguyen@example.com,"74 Mai Dãy
+Quận JaneQuận, 161324",Huyết áp cao,11.4,Yến Đặng,11/01/2026
+eb5cf467-80ba-4d64-ba0e-cfea958ca9ba,Cô Phương Trần,675261099844,23/08/1997,0385575046,hoangjohn@example.net,"939 John Số
+JaneQuận, 802258",Huyết áp cao,5.56,Quang Đức Bùi,24/01/2026
+50f0fd0a-750c-4b75-8ccc-9bc2a53f8a28,An Dương,739318491247,02/11/1980,0954684654,tranjohn@example.net,"354 Jane Khu
+Huyện JohnQuận, 377312",Khỏe mạnh,3.94,Hà Mai,28/01/2026
+b7b56ea7-35eb-432d-9ad6-20ab48212ddb,Trung Đức Mai,516420750092,27/02/1971,0385118512,tranjane@example.com,"427 Mai Đường
+Thành phố JohnXã, 137778",Huyết áp cao,11.29,Nhiên Trí Bùi,23/01/2026
+eededb07-e623-4689-9d59-cd2a4eea04e7,Xuân Đặng,095542515011,30/10/1950,0392401659,johndang@example.net,"2 John Hẻm
+JohnQuận, 872343",Huyết áp cao,7.16,Huy Hải Vũ,29/01/2026
+df465290-61ee-411a-9bac-27a7b386f7a4,Ánh Dương,085023863672,24/09/1951,0933500761,tdang@example.org,"54 Jane Tổ
+JaneThành phố, 220944",Huyết áp cao,11.93,Phúc Hoàng,23/06/2026
+98b8e4cc-1bc0-44fc-89cb-394243f59a85,Thành Tấn Bùi,296503003374,30/09/1979,0755667006,buijohn@example.com,"883 Bùi Ngõ
+JanePhường, 989208",Huyết áp cao,7.64,Nhật Vũ,02/04/2026
+6703b636-5380-4904-a88c-7015aab97e49,Tùng Lê,531091344377,01/07/1949,0732589570,nle@example.net,"43 Hoàng Tổ
+JaneThị xã, 808446",Khỏe mạnh,6.07,Quý cô Vi Lê,29/04/2026
+a2086977-a9f2-4336-83f4-a9a948a639d0,Vũ Hải Vũ,829414313616,22/11/1951,0975571978,johnnguyen@example.org,"1 Bùi Làng
+JaneThị xã, 355836",Khỏe mạnh,3.6,Cô Hà Bùi,09/02/2026
+8498e113-b227-462c-b53d-4330cdda24ba,Ông Tùng Phạm,176480216484,21/06/2002,0737283912,duongjohn@example.com,"98 Mai Dãy
+Thị xã JaneHuyện, 888295",Khỏe mạnh,11.71,Bà Vi Mai,29/03/2026
+13d5f2f7-709b-4d97-864c-04af3d3f3799,Quang Vũ,723791025112,05/01/1960,0517436267,lejohn@example.org,"3 Jane Số
+JaneThị xã, 165290",Tiểu đường,6.31,Quý cô Hồng Hoàng,20/06/2026
+c3fe0183-e172-4725-9b52-ca5805000bc6,Nhật Văn Đặng,049881725825,17/04/1957,0881919533,ibui@example.net,"34 Dương Đường
+JanePhường, 812131",Huyết áp cao,11.79,Nhật Xuân Dương,15/06/2026
+06e745f9-88bc-439c-9f4c-3b79fb10987f,Khoa Văn Trần,825829678239,01/06/1982,0328959359,janele@example.org,"755 Vũ Số
+JohnThị xã, 120324",Khỏe mạnh,11.59,Linh Phạm,28/04/2026
+0a4e5b70-a6d9-44a3-b510-ab53c7fee39f,Mai Phạm,066944916926,04/10/1996,0528196972,johnle@example.com,"45 John Hẻm
+JohnXã, 126925",Khỏe mạnh,8.52,Nhiên Bùi,13/03/2026
+9793b9b4-1374-4146-b2c5-bd89b70b3420,Cô Yến Vũ,558971240195,26/07/1997,0919188301,hoangjohn@example.com,"850 Dương Ngõ
+JanePhường, 968962",Tiểu đường,9.89,Anh Huy Lê,13/05/2026
+9dac6e83-4524-4ea6-a684-6099f7294951,Quý ông Huy Hoàng,269804397597,01/02/1955,0935981325,johnvu@example.com,"9 Đặng Đường
+JaneQuận, 611233",Tim mạch,7.33,Bà Vi Vũ,03/03/2026
+e14eb70d-b380-473a-989d-9d4ae15ca666,Tùng Nguyễn,341928777959,17/03/1973,0553215085,johnpham@example.net,"7 Dương Đường
+Huyện JohnThị xã, 825391",Tim mạch,4.48,Bà Dương Hoàng,08/03/2026
+6cedd15d-5800-4c02-87ea-7ff58db06746,Quang Mai Vũ,253926799326,16/11/1957,0545158988,johnpham@example.com,"374 Trần Làng
+JohnHuyện, 288158",Tiểu đường,4.18,Nam Mai,23/01/2026
+8da8eee4-0df5-4ac6-b96b-648a0ba6eab9,Hoàng Dương,301172207769,25/12/1942,0511263529,hoangjane@example.com,"047 John Số
+JohnXã, 760021",Tiểu đường,5.3,Lan Lê,27/05/2026
+fe716b14-15ce-4a66-8dc8-2a1ef2f9e5fa,Cô Vân Bùi,175554797392,03/10/1979,0807449577,janeduong@example.com,"99 John Làng
+Huyện JohnQuận, 351516",Khỏe mạnh,9.02,Cô Bảo Nguyễn,15/03/2026
+4a8ff810-784c-4f29-9804-02a2b07aa066,Mai Vũ,076760950655,07/02/1987,0913952998,rtran@example.org,"18 John Khu
+Thành phố JohnQuận, 931131",Khỏe mạnh,9.54,Trọng Hoàng,15/06/2026
+b04d3376-77fc-4703-9fd5-a423706c5c56,Thành Vũ,662447341988,11/01/1972,0355072809,fduong@example.net,"5 Nguyễn Ngõ
+Thành phố JaneXã, 142185",Khỏe mạnh,6.42,Quý cô Phương Dương,14/06/2026
+6f962882-95d8-4980-bf37-d19c2e76128b,Ông Châu Đặng,750437177286,21/04/1965,0530849671,john25@example.com,"6 Jane Ngõ
+JaneHuyện, 221552",Tiểu đường,11.49,Phương Văn Mai,25/03/2026
+5c9d927d-84b8-41bb-b005-68d20de051a6,Quý ông Hưng Phạm,895331618085,27/12/1954,0352681782,janeduong@example.net,"9 John Khu
+Thị xã JohnQuận, 982277",Huyết áp cao,11.16,Nhật Trần,27/04/2026
+b77350ca-eec2-49dc-bf95-897c276aa6ce,Minh Vũ,563799596533,28/10/1965,0338559243,pduong@example.com,"982 Jane Số
+JaneThành phố, 396578",Khỏe mạnh,7.41,Nhiên Hoàng,29/06/2026
+7250ee18-260a-4962-9d81-b7f57d5911c6,Bác Dũng Mai,301968909200,09/03/1991,0885184424,uduong@example.org,"Thị xã JohnThị xã
+76 Lê Dãy, 138817",Khỏe mạnh,7.9,Bà Hà Dương,18/01/2026
+b8f21423-03ed-41f8-b4f9-3d17e912b4bf,Quý cô Hải Lê,992710224512,15/12/1940,0504597903,jane96@example.net,"8 Đặng Dãy
+Thành phố JohnPhường, 817644",Khỏe mạnh,7.35,Quang Trần,20/03/2026
+b4323070-a23d-4c2f-82a7-96891933918c,Nhật Lê,995031112993,26/02/1986,0937562218,nguyenjane@example.org,"23 Hoàng Hẻm
+Quận JohnXã, 501126",Tim mạch,9.2,Quý cô Xuân Hoàng,26/01/2026
+75a66981-4104-48b5-a34d-b7c5760debbb,Nam Dương,182778204650,13/04/2001,0895149668,johnduong@example.com,"JanePhường
+43 Dương Ngõ, 348728",Khỏe mạnh,7.46,Khoa Phú Hoàng,23/02/2026
+fa5a91ca-059d-455d-8b94-3e30b303f438,Hạnh Văn Hoàng,583258893782,24/08/1998,0900606302,hoangjane@example.com,"5 John Khu
+Thành phố JohnHuyện, 926918",Tim mạch,10.75,Ông Nhiên Đặng,12/05/2026
+53a3dd5a-4b8c-4bdc-a8dd-5e5a1712fb16,Bảo Hoàng Lê,034320043375,28/11/1992,0382808944,jane24@example.com,"JaneThành phố
+236 Trần Số, 114594",Tim mạch,5.87,Tùng Trần,23/03/2026
+431d029f-ac1e-46d8-bfbf-397bac3e7b0d,Hải Phú Trần,026376444997,03/10/1984,0710317472,nnguyen@example.net,"1 Vũ Số
+Quận JohnThành phố, 419149",Tiểu đường,9.37,Ông Tú Phạm,09/06/2026
+5efa9c5b-7421-4f46-a37e-4b0122bae10e,Khoa Trí Bùi,107905243685,21/04/1983,0389454823,ahoang@example.com,"773 Trần Tổ
+JohnThị xã, 389282",Tim mạch,4.52,Cô Ánh Dương,17/01/2026
+98de8ebb-a3b5-4ece-a446-be72364c911a,Ngọc Đặng,413085368708,10/04/1953,0349417409,johntran@example.net,"529 Jane Hẻm
+Huyện JohnThành phố, 793169",Huyết áp cao,7.53,Lan Nguyễn,06/03/2026
+52e2afd9-96bf-40ab-bce9-15e7c9d6a63b,Lan Vũ,018354530743,27/04/1939,0516627077,hmai@example.net,"89 Jane Làng
+Huyện JanePhường, 132663",Tiểu đường,4.6,Chi Bùi,18/03/2026
+e8e22743-b65f-4ea9-bd82-42641ba362e7,Ông Vũ Đặng,917454445840,25/11/1979,0300142303,lejane@example.net,"98 Dương Số
+Thành phố JohnThị xã, 573489",Khỏe mạnh,9.84,Quý cô Linh Dương,13/03/2026
+6d4067f4-5003-4b35-9857-8bafbac7e2b9,Anh Phú Lê,006830153792,19/08/1985,0937481851,ftran@example.org,"5 John Tổ
+Thị xã JanePhường, 886730",Huyết áp cao,4.15,Nhật Thị Vũ,19/04/2026
+81e5c9f6-93f2-47cc-9a85-910d5a057c11,Chị Dương Dương,000620098953,12/11/1951,0596018093,dangjane@example.org,"89 Jane Đường
+Huyện JaneHuyện, 468074",Huyết áp cao,5.89,Lan Lê,12/04/2026
+bdb025ff-2451-45a4-91d0-59b26699cd99,Hương Mai,587130258281,14/03/1951,0842084845,vduong@example.org,"9 John Hẻm
+Thành phố JohnHuyện, 564637",Tiểu đường,8.67,Nhật Mai Bùi,19/02/2026
+585d3f86-1d23-44e6-8329-20b7c143f426,Hà Thế Hoàng,666613199819,07/01/1971,0707785508,john36@example.net,"32 Vũ Tổ
+Thành phố JanePhường, 551574",Tiểu đường,4.1,Chị Kim Mai,07/05/2026
+ab05347f-d556-437d-8f08-81ee8011316b,Vũ Hữu Nguyễn,563872363597,04/05/1967,0910146897,utran@example.net,"6 Trần Số
+Huyện JohnXã, 582446",Tim mạch,9.89,Vũ Bảo Trần,13/02/2026
+1422373f-8622-48d1-a683-e10796c044d0,Hạnh Tấn Phạm,079649536213,22/10/1959,0523399243,johnmai@example.net,"52 John Hẻm
+JohnQuận, 731661",Huyết áp cao,5.79,Cô Bảo Dương,25/03/2026
+72eb7474-9458-454e-8287-4f069050f7ef,Dũng Trí Dương,606395257299,23/06/1940,0305569365,yvu@example.com,"1 Dương Dãy
+Thành phố JaneHuyện, 180458",Tiểu đường,8.37,Khoa Hoàng,02/04/2026
+f4488385-8de7-4d6c-9490-77c27674456f,Chi Hoàng,555355325298,29/01/1983,0701092352,jane82@example.org,"1 John Làng
+JaneXã, 648141",Huyết áp cao,7.92,Bà Thành Vũ,11/03/2026
+990f0c5b-adcc-4daf-969f-3ab3c6435300,Vi Đặng,180100453233,21/04/1940,0988093784,maijane@example.com,"19 Jane Khu
+JohnXã, 843266",Tiểu đường,7.17,Hạnh Mai,09/03/2026
+20b71785-d02c-40c1-9417-0a17caaa5bbe,Hải Bùi,712816950523,12/08/1972,0518062562,dangjane@example.org,"33 John Ngõ
+JohnXã, 908320",Khỏe mạnh,7.44,Dương Đặng,07/06/2026
+6070b6a1-98e5-4499-a18c-6e1c9e374f7a,Chị Bảo Hoàng,560060628231,22/07/1994,0377550026,janenguyen@example.com,"94 Phạm Làng
+JaneQuận, 485709",Tiểu đường,5.19,Quý ông Khoa Bùi,01/04/2026
+d11fc8c0-297c-44ff-b75d-599f6b2d5b09,Chị Ánh Vũ,419819931580,21/04/1939,0811857852,jdang@example.org,"12 Dương Hẻm
+JohnQuận, 956375",Tiểu đường,6.31,Bác Nam Bùi,10/01/2026
+62dbc850-3c5b-43a7-9fbb-f0b1808389c8,Thành Phạm,090104176683,20/07/1937,0953514515,dangjohn@example.org,"2 Dương Đường
+Thành phố JaneQuận, 975522",Tim mạch,6.93,Quý cô Hà Vũ,12/02/2026
+6b79afcc-3d0a-4f0c-8c39-4ec71f317405,Ông Tú Dương,767552903116,21/01/1979,0564320179,maijohn@example.net,"953 Lê Ngõ
+JohnXã, 670511",Tim mạch,11.35,Hồng Dương,08/01/2026
+40ef3935-5f90-4ed6-bb25-664d630aa767,Linh Trần,428564853228,30/08/1960,0731687460,hoangjane@example.org,"2 Dương Hẻm
+Thành phố JaneThành phố, 407696",Tim mạch,6.99,Cô Vi Phạm,09/06/2026
+83f02dc7-4f61-4217-aef1-669450cae32d,Phương Mai Bảo Vũ,551769566938,02/03/1938,0815279211,janedang@example.org,"15 Bùi Dãy
+JaneQuận, 620306",Khỏe mạnh,6.11,Bác Minh Vũ,25/05/2026
+6e3c4532-1434-4f62-acac-028cba220065,Bà Thành Trần,638347329434,03/05/1941,0352167313,jane79@example.net,"70 Hoàng Số
+JohnThành phố, 803787",Tim mạch,3.65,Thành Xuân Nguyễn,26/01/2026
+702c1821-c804-4fb7-ad97-3b679b89e5cb,Lan Trần,401027945805,20/09/1952,0359554670,jane69@example.org,"57 John Tổ
+JanePhường, 392227",Tim mạch,9.57,Cô Ngọc Lê,31/03/2026
+1e2595b8-8fc9-486b-a9dd-ebf563119aca,Anh Dương,464898377185,27/02/1951,0593294802,jane31@example.org,"715 Trần Khu
+JohnPhường, 844031",Tim mạch,4.88,Bà Phương Phạm,22/01/2026
+3c9abe10-238d-4f44-8ac4-d0eb3373730e,Ông Quang Mai,487501397999,09/04/1977,0533341197,imai@example.net,"67 Bùi Ngõ
+Huyện JohnThị xã, 588461",Khỏe mạnh,7.57,Hoàng Xuân Lê,19/03/2026
+d4d60735-0e2f-4958-9e43-1e06e9247069,Phương Lê,959026581394,11/09/1957,0575345238,janepham@example.com,"438 Lê Khu
+Quận JohnQuận, 790731",Tim mạch,4.99,Nhiên Thị Nguyễn,15/01/2026
+93a74792-c561-48dc-a436-4fcdf2d3f761,Trung Hoàng,050953564487,26/11/1965,0373079384,duongjane@example.net,"647 John Hẻm
+JaneThị xã, 587002",Tiểu đường,10.5,Bà Duyên Lê,26/02/2026
+fcef1972-bbf4-43ce-91be-b80eb7e6a14c,Thành Trí Đặng,687815444987,01/02/1973,0344515478,dangjohn@example.com,"210 Bùi Số
+Quận JaneXã, 856157",Tim mạch,6.47,Trung Xuân Dương,29/06/2026
+4efc8248-e10b-4a47-bfae-b7487781321e,Ông Vũ Bùi,125704056003,23/05/1972,0970859640,johnhoang@example.com,"97 Mai Đường
+Thị xã JohnHuyện, 862847",Khỏe mạnh,9.99,Thành Phú Nguyễn,14/03/2026
+5cce5ba9-31d4-4e09-8fd3-3afc91fdfa4f,Vũ Bùi,527771857237,21/04/1972,0867485386,john21@example.com,"5 John Số
+Thành phố JohnQuận, 848255",Khỏe mạnh,5.54,Châu Mai Lê,20/04/2026
+ee6e2e72-53f5-41dc-a3c8-afdb83f82f16,Phúc Hữu Hoàng,483774331123,19/06/1989,0362379544,jane88@example.net,"05 Trần Số
+JohnXã, 597643",Khỏe mạnh,4.64,Nhiên Hoàng,10/02/2026
+2ba6adb3-7afe-4114-9561-c8130d259caa,Bảo Hải Nguyễn,262681337321,17/04/1977,0511627554,phamjohn@example.com,"36 Nguyễn Hẻm
+Huyện JaneXã, 495129",Khỏe mạnh,9.32,Phúc Mai Mai,03/03/2026
+de1e994a-c5a1-4f5c-ad05-b9125ab28d4a,Trọng Dương,115712559078,12/07/1949,0842211820,janemai@example.com,"37 Dương Tổ
+JaneThành phố, 701334",Tiểu đường,8.14,Kim Phú Lê,22/02/2026
+143b45e3-b6d1-46bb-b48f-709c49a22441,Bảo Đức Dương,017831986897,11/02/1951,0788440206,jane21@example.net,"083 John Ngõ
+JanePhường, 595351",Khỏe mạnh,5.13,Hải Lê,01/01/2026
+286ed390-edd9-4a1a-ba58-5b278ce3e7c3,Hải Mai Bảo Dương,800217096236,25/12/1982,0394082298,jane40@example.org,"0 Jane Hẻm
+Thị xã JaneQuận, 885386",Khỏe mạnh,8.34,Hưng Nguyễn,23/02/2026
+fba57cc8-edaf-4766-9b78-0ede9a4ffc0c,Khoa Mai Mai,513275875170,08/10/1973,0703622647,janevu@example.org,"742 Jane Khu
+Quận JaneThị xã, 640310",Tim mạch,4.81,Vũ Hữu Trần,03/02/2026
+ef9240b6-52d7-4f10-ba3a-6e9623ff23d3,Cô Thảo Bùi,985867613585,07/09/1952,0721409532,jane49@example.net,"5 John Ngõ
+JaneQuận, 525110",Tiểu đường,11.88,Tú Vũ,08/03/2026
+22319050-f515-4494-b818-cfd33889936a,Anh Bảo Hoàng,085619832283,08/10/1962,0722874116,zmai@example.net,"9 Jane Tổ
+Thành phố JohnXã, 630041",Huyết áp cao,3.85,Chị Lan Đặng,03/06/2026
+3495311e-ae27-4432-9dc1-e7eb711c7673,Ông Minh Dương,121502567761,12/07/1994,0867832680,gle@example.com,"7 Nguyễn Số
+JohnPhường, 328486",Tiểu đường,6.59,An Bùi,04/03/2026
+0f6ce9bf-fe7e-4362-8a89-b0f0105291d3,Nhật Nguyễn,647201202243,13/06/1956,0803025360,johnbui@example.com,"JaneThị xã
+825 John Số, 654531",Tiểu đường,5.91,Chị An Nguyễn,26/06/2026
+8b60c511-b816-4aeb-ac6a-7c8576876c62,Phương Hữu Phạm,021626885338,24/07/1953,0505405535,john43@example.net,"6 John Làng
+Thành phố JohnThị xã, 726822",Tim mạch,3.97,Mai Nguyễn,14/03/2026
+c11f6bf5-379e-4467-8a2d-b2e63bfda8a6,Lan Mai,230194433728,08/01/2008,0348695650,janehoang@example.net,"428 Jane Khu
+JohnXã, 720407",Tim mạch,9.74,Quý cô Phương Dương,09/01/2026
+abdd1a8f-a4b0-4c89-b10b-ce9c582b91ee,Phương Tấn Bùi,416877927933,18/04/1965,0808964098,jane28@example.com,"27 Jane Số
+Thị xã JohnHuyện, 313214",Tim mạch,7.45,Vũ Mai Đặng,17/01/2026
+0d31812e-30c3-4756-9453-f867b97e6224,Thành Hoàng,174577395879,05/07/1979,0388711362,phamjohn@example.com,"03 John Dãy
+Quận JaneQuận, 678897",Tiểu đường,5.71,Khoa Hữu Dương,07/04/2026
+5c11ab6d-42f5-43f5-8ef4-c34d5bf86f3c,Quý ông Tú Dương,975796458774,04/02/1991,0899082395,john55@example.com,"2 Jane Số
+JohnQuận, 445888",Khỏe mạnh,5.16,Quý cô Duyên Phạm,31/03/2026
+566a9ce7-af52-4b94-b186-e47aa7946320,Châu Dương,718529968960,18/02/1969,0528800087,john28@example.com,"0 John Đường
+JohnPhường, 342675",Khỏe mạnh,11.07,Nhật Lê,02/01/2026
+0f79a8a7-5f8a-44bd-b4bd-0c938177b661,Quý ông Nam Nguyễn,459472867668,06/05/1974,0871648483,bnguyen@example.net,"862 John Hẻm
+Quận JaneHuyện, 380310",Huyết áp cao,5.31,Hà Phú Bùi,24/03/2026
+39d1c7ff-b27e-4442-bd7f-e9733e42df5b,Vũ Nguyễn,537194653747,27/04/1942,0894788922,jbui@example.com,"2 Jane Số
+JohnXã, 144618",Khỏe mạnh,5.26,Chị Xuân Hoàng,27/03/2026
+af36b8cc-1308-4974-ac95-b3ac0beb7c34,Tùng Hoàng,986000084822,15/07/1983,0710375696,janenguyen@example.org,"429 Jane Tổ
+JohnPhường, 859340",Tim mạch,9.42,Phương Đặng,10/01/2026
+1375ee90-d6b3-41e4-bb6d-ca0d6fe5040b,Trọng Hữu Đặng,202619053868,27/08/1937,0545741841,jane73@example.com,"29 Trần Khu
+Thành phố JohnHuyện, 261712",Huyết áp cao,11.13,Nhật Trí Bùi,27/02/2026
+f165d779-0154-4950-976d-e21f1b46ebdc,Bảo Đặng,914475754429,27/01/1991,0838016963,lejohn@example.org,"015 Jane Số
+Huyện JaneThị xã, 917018",Huyết áp cao,11.21,Nhật Mai,12/06/2026
+85671b58-926b-4fa5-be24-5fbffa698cd2,Quý cô Bảo Lê,586218049508,15/02/1955,0314008636,jane21@example.org,"71 Vũ Làng
+JohnThị xã, 212168",Tim mạch,11.71,Bà An Bùi,01/03/2026
+dcb9075e-cdd7-4460-a140-77d39ec4ea48,Bảo Tấn Bùi,464872557010,09/01/1995,0976437489,janedang@example.net,"52 Đặng Khu
+JohnHuyện, 494322",Tim mạch,10.89,Thành Đặng,21/01/2026
+ff4cc10f-979c-40cf-b326-1887905881df,Cô Nhật Dương,642817535740,01/05/2004,0341660711,janevu@example.net,"7 Jane Làng
+JohnPhường, 543681",Tiểu đường,3.86,Hà Mai Hoàng,28/03/2026
+ec6a37ad-81b1-4db9-88cc-4d49669b29b8,Phương Thị Đặng,588045441175,18/09/1986,0833995157,tranjohn@example.net,"9 Jane Tổ
+JohnThành phố, 203396",Huyết áp cao,11.11,Quang Mai,15/05/2026
+9342a09f-b00a-464c-949c-d8d48ed8a80d,Quý cô Linh Bùi,613149758951,19/04/1969,0925157708,janenguyen@example.com,"125 Đặng Dãy
+Thị xã JaneThị xã, 202365",Khỏe mạnh,5.98,Quý ông Dũng Trần,24/02/2026
+05c8234b-1d76-4a66-b5f5-9cb0cf685878,Tú Xuân Phạm,268553400957,28/02/1973,0373338718,janemai@example.com,"22 Bùi Đường
+Thị xã JaneThị xã, 104666",Tim mạch,8.52,Chị Thảo Trần,14/04/2026
+2fdc9992-8971-4eea-9f3a-098accac2fb5,Dũng Hoàng Dương,277350008567,24/10/1943,0771889871,omai@example.com,"1 Đặng Dãy
+Huyện JohnPhường, 240454",Tiểu đường,8.58,Tú Hải Vũ,22/01/2026
+82c56b21-2430-42da-b185-0eb85f90fc87,Kim Trí Hoàng,138619122758,04/07/1963,0390015106,janemai@example.net,"2 Vũ Hẻm
+Huyện JaneXã, 156215",Khỏe mạnh,5.04,Nam Mai Bảo Lê,05/02/2026
+816462cb-8fc3-47d3-b6bd-80c7624a2a50,Quý ông Châu Bùi,636529967938,03/05/1987,0835151520,kduong@example.org,"04 Jane Hẻm
+JaneXã, 635618",Huyết áp cao,4.26,Khoa Trần,18/02/2026
+5deaa737-fdab-4441-92c2-a9608b0901ab,Vi Dương,050693800678,18/05/1975,0502294819,vtran@example.net,"745 Jane Ngõ
+Quận JanePhường, 739905",Khỏe mạnh,9.55,Bảo Trí Phạm,27/05/2026
+59cf0b0d-91f0-447d-8f32-1333ce315937,Trọng Mai,194435460472,14/10/1947,0581562574,jane94@example.net,"Quận JaneThành phố
+2 John Hẻm, 845951",Huyết áp cao,7.04,Quang Hữu Dương,26/01/2026
+6a0aa7d5-a0b8-4755-84ca-a5a2a1e518a2,Nhật Quang Trần,056655341753,25/11/1964,0705465490,jane77@example.com,"7 Trần Số
+Thị xã JohnThị xã, 381581",Tiểu đường,9.5,Khoa Tấn Mai,15/04/2026
+c9ce44bd-7c3f-4add-9a38-5db590eeb067,Hưng Thị Trần,582913920201,16/03/1981,0840075046,hnguyen@example.org,"32 Lê Khu
+Huyện JaneThành phố, 489906",Khỏe mạnh,4.01,Cô Kim Vũ,11/05/2026
+a7cde143-6de2-4429-bbf0-d9c1c156e501,Nhật Trần,118404113724,28/07/1935,0798236882,itran@example.net,"051 Lê Dãy
+Quận JaneThành phố, 866260",Tim mạch,7.34,Hà Đặng,08/03/2026
+c601818b-61fa-41ba-a31a-e7c74c9bff5c,Chị Hà Mai,061643942155,12/08/1976,0862507324,janedang@example.net,"97 John Ngõ
+Thành phố JaneHuyện, 550246",Khỏe mạnh,6.9,Hoàng Hải Vũ,27/04/2026
+999a1d86-99db-4302-8dab-66d33f87dfc2,Nam Vũ,673255974384,29/06/1950,0793090303,janevu@example.net,"61 Jane Ngõ
+Huyện JaneQuận, 505629",Tim mạch,11.72,Thành Xuân Dương,21/06/2026
+965d744f-0445-41a8-92af-97e4c536c66e,An Vũ,856788213945,30/03/1951,0899708980,buijane@example.net,"61 Jane Ngõ
+JohnXã, 313068",Huyết áp cao,11.18,Bà Kim Hoàng,25/04/2026
+a4a5c736-ae59-4a52-a65b-e22bd5a386d9,Hạnh Bùi,183084198327,12/10/1988,0795505215,johnpham@example.org,"99 Jane Hẻm
+Thành phố JohnPhường, 111901",Huyết áp cao,9.17,Quý cô Thành Mai,04/04/2026
+2abe1585-425e-4259-b884-16d2d28fcf68,Hoàng Đức Trần,811866334109,23/10/1991,0796158638,dangjane@example.com,"9 Jane Dãy
+JohnThị xã, 694423",Tiểu đường,8.36,Bà Bảo Vũ,20/05/2026
+b90800f3-ac93-481a-92eb-eab0e4eec67c,Lâm Mai,538195199241,06/09/1935,0344005916,phamjohn@example.com,"086 Jane Làng
+JaneHuyện, 966120",Khỏe mạnh,10.57,Khoa Đặng,22/01/2026
+2de982f8-0d7b-4c04-a6e5-9b32ac5f12ef,Cô Hồng Trần,909600178704,08/07/1999,0523419454,jane51@example.net,"494 Jane Tổ
+JohnPhường, 673108",Tim mạch,10.62,Chị Ngọc Bùi,05/01/2026
+d6ee526b-a2cd-4590-98af-393c8aa2b4c9,Linh Nguyễn,856768929014,24/11/1990,0312575774,gvu@example.org,"70 Jane Ngõ
+Quận JanePhường, 490586",Tiểu đường,11.98,Ông Nhiên Trần,01/04/2026
+13281726-64f4-44d6-91e9-1691a3209116,Hồng Lê,979192286441,11/10/1952,0518956216,jane65@example.com,"329 John Ngõ
+Thị xã JaneHuyện, 526259",Tiểu đường,11.45,Phương Đặng,23/06/2026
+769de1e3-4eed-4124-b3b0-d6763527a5c8,Tú Trần,813927958662,31/12/1946,0720891849,john35@example.org,"68 Jane Khu
+Thành phố JaneThị xã, 682959",Huyết áp cao,4.05,Cô Chi Trần,25/05/2026
+0fc98d2e-030f-4be9-9f17-8f9323c97a1e,Chị Mai Bùi,544433848461,01/09/1962,0540075755,hoangjane@example.org,"721 Trần Đường
+JohnQuận, 701761",Tim mạch,8.55,Nhật Hữu Dương,06/01/2026
+5a9c0679-2c3d-47e2-ad39-da75aee70ab2,Chị Thảo Vũ,390020163548,20/01/1968,0568497829,johnhoang@example.net,"68 Nguyễn Ngõ
+JaneQuận, 539599",Tim mạch,6.92,Chị Dương Mai,24/05/2026
+b69f75c5-c82b-41be-a1eb-64e6fd498e20,Châu Mai Bảo Đặng,340820542571,13/02/2002,0958598791,jane42@example.org,"407 Hoàng Làng
+Thành phố JohnPhường, 352867",Khỏe mạnh,10.44,Tùng Nguyễn,18/05/2026
+d8b48ead-9360-4edf-b82b-5b86f2a32efd,Thành Xuân Lê,216138097846,05/10/1952,0393318841,jane90@example.net,"3 Mai Khu
+Thị xã JohnThành phố, 158896",Huyết áp cao,10.4,Chị Ngọc Mai,28/03/2026
+33932b6c-9d37-4fb6-aafb-3e9054ec84ce,Bà Nhật Lê,069888567917,26/07/2002,0811628253,john02@example.net,"851 Bùi Ngõ
+JaneHuyện, 243079",Tiểu đường,6.3,Quý cô Hải Dương,27/04/2026
+8fddbebc-f7ff-48d4-b509-f08a2c988bca,Quang Xuân Bùi,997759660488,22/11/1957,0928809161,john20@example.net,"0 Jane Làng
+Thị xã JohnHuyện, 881549",Tim mạch,7.63,Lâm Đặng,26/06/2026
+f68c62e6-e2a4-4909-a2dd-22d52afaab7b,Nhật Đặng,523256050984,05/02/1968,0899197430,john31@example.com,"0 Jane Dãy
+JohnThị xã, 617033",Khỏe mạnh,8.0,Thành Hữu Trần,30/05/2026
+a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,Chị Chi Trần,001730511783,01/11/1993,0328145325,vujohn@example.com,"526 John Ngõ
+JanePhường, 132498",Tiểu đường,8.0,Hải Xuân Hoàng,10/06/2026
+54c29d5c-19ec-4829-8db5-d4412837f418,Chị Hồng Mai,955645489033,15/03/1988,0720499386,jane43@example.org,"050 Trần Khu
+JohnThành phố, 126985",Tiểu đường,10.98,Chị Dương Vũ,25/06/2026
+4ef03f80-1d91-4e39-9801-4004793bed1b,Nhật Mai Bảo Vũ,622828421294,23/02/1942,0831168062,xle@example.com,"477 Phạm Khu
+Quận JohnThành phố, 800596",Huyết áp cao,4.1,Tùng Bảo Hoàng,10/02/2026
+d183010f-6319-429b-973e-7bb90f9ca17b,Phương Mai Bảo Hoàng,695978146495,09/11/1999,0824094017,fvu@example.com,"9 John Dãy
+Quận JohnQuận, 232315",Tim mạch,4.38,Hồng Trần,27/06/2026
+d2938e6e-ff4d-4930-b3b0-fb536f75ee8a,Bà Thành Trần,934601543009,05/11/1941,0397345307,umai@example.com,"9 Trần Số
+Quận JohnThành phố, 690016",Khỏe mạnh,5.36,Hạnh Mai,08/06/2026
+620f230b-439e-454c-a930-16eae0bda1ee,Quý ông Hưng Lê,680376363310,07/08/1955,0796614647,janenguyen@example.com,"3 Jane Khu
+JohnHuyện, 957091",Tiểu đường,10.15,Khoa Vũ,01/06/2026
+1924c644-af52-4666-b239-09f4dbb54645,Chị Thảo Dương,308853488635,31/12/1991,0381871154,jane69@example.net,"678 Nguyễn Hẻm
+Huyện JaneQuận, 918430",Khỏe mạnh,7.51,Lan Phạm,07/06/2026
+3fde9814-0ec0-4d4b-9644-1a9d3362d476,Chi Nguyễn,946380552141,06/07/2002,0738172569,janedang@example.com,"0 Jane Dãy
+JohnThị xã, 715388",Huyết áp cao,4.5,Quang Xuân Vũ,15/05/2026
+0706fec2-48fa-4e98-9723-ecdbb0588256,An Xuân Hoàng,472841306355,03/06/1992,0765751452,johnpham@example.net,"0 Jane Hẻm
+Thành phố JohnHuyện, 737894",Khỏe mạnh,9.11,Anh Bùi,11/06/2026
+4082fcda-7580-44e9-9945-0186da018d29,Quý cô Thảo Mai,917509973752,02/09/1995,0322154077,ghoang@example.org,"9 Vũ Ngõ
+JohnHuyện, 389913",Huyết áp cao,4.51,Anh Đức Vũ,03/02/2026
+e651e3e1-3d84-4fc9-83f6-2136846d5a3b,Vi Hoàng,792270806841,28/12/1964,0830927379,john07@example.com,"60 Jane Làng
+JaneXã, 414777",Khỏe mạnh,10.21,Chị Hạnh Trần,26/03/2026
+ceef9fa8-b9a5-44d0-8237-01f1bdacdc5e,Bà Hải Trần,456142826836,20/09/1951,0801669469,janebui@example.com,"17 John Dãy
+Thành phố JaneXã, 412848",Tim mạch,9.05,An Trí Lê,28/06/2026
+91c46efc-fcb8-46bb-a8c0-cbef57b936b0,Anh Dũng Lê,720154508191,10/05/1992,0853577649,odang@example.org,"743 John Dãy
+Quận JanePhường, 550268",Huyết áp cao,7.72,Kim Mai Bảo Bùi,01/01/2026
+5f8392d5-bb0c-4919-b30c-cff588a5fa0d,Xuân Đặng,939683706347,29/09/1990,0509569193,johnnguyen@example.net,"5 Lê Ngõ
+JaneQuận, 168458",Khỏe mạnh,11.71,Thảo Vũ,24/03/2026
+567c5d44-862c-42fd-98ab-b2e785319f0f,Hải Trí Đặng,690030056985,19/03/2008,0832646766,wdang@example.org,"332 John Hẻm
+Huyện JohnThị xã, 771425",Tim mạch,3.7,Tùng Hoàng,09/01/2026
+1bad52a8-a976-4c4d-8c47-2187fea35d37,Ngọc Trần,656524773099,01/12/1965,0330335842,jtran@example.com,"046 Jane Hẻm
+JohnXã, 853681",Tiểu đường,8.94,Hạnh Trần,22/05/2026
+3322c68b-9be7-4aec-b2da-81f07f6bd3c6,Minh Phạm,918387279180,15/08/1961,0947318373,kvu@example.org,"7 Phạm Đường
+Thành phố JohnXã, 801520",Tiểu đường,8.1,Anh Vũ Mai,14/01/2026
+41822509-e79f-4f3d-99ee-2c3bb93c4b0b,Quý cô Thảo Vũ,005702310918,21/05/1969,0768539850,lejohn@example.com,"11 John Hẻm
+Huyện JaneThị xã, 752011",Tiểu đường,10.95,Vũ Đặng,27/05/2026
+6676cc75-6699-4af5-9d24-181c2ed087d4,Bác Thành Dương,401604443793,20/11/1993,0738126862,johnle@example.net,"697 Lê Số
+JohnPhường, 979269",Khỏe mạnh,9.73,Quý cô Nhật Trần,09/06/2026
+42f90f92-1036-4a81-8bc4-d7ba70d0ebcb,Nam Hải Đặng,938206676368,22/05/1973,0967236518,buijohn@example.com,"890 John Dãy
+JohnThành phố, 887931",Tiểu đường,9.33,Bác Quang Đặng,24/06/2026
+8ced4707-3903-4b65-81c6-1eeb0ce3c8c8,Kim Hải Trần,767928306851,03/01/1969,0704814050,ftran@example.com,"0 Jane Số
+Thành phố JohnXã, 749137",Tiểu đường,6.91,Minh Mai,07/02/2026
+57423882-f34a-4949-b4ca-0ad7abe5be96,Hưng Hải Dương,602383994936,23/09/1959,0325003615,tdang@example.com,"554 Trần Đường
+Thị xã JohnPhường, 878579",Huyết áp cao,4.81,Hà Đức Hoàng,05/02/2026
+6494dd5c-da29-4905-ae22-a70b1ee93260,Quý cô Ánh Phạm,141161227737,27/10/1987,0936232214,buijohn@example.net,"79 Jane Đường
+Thị xã JaneXã, 919023",Tiểu đường,11.3,Chị Nhật Lê,19/01/2026
+e1f85b33-9b2d-4a2a-99bd-6240a8535961,Minh Hữu Bùi,000699132036,31/12/2006,0500327549,janebui@example.com,"JohnQuận
+8 Mai Tổ, 846454",Khỏe mạnh,3.52,Chị Mai Hoàng,09/05/2026
+ac20af11-ebd3-4927-9865-28e6afc5c20e,Chị Phương Mai,958436762834,07/03/1986,0356112932,john58@example.com,"8 Bùi Đường
+Thành phố JaneQuận, 155642",Huyết áp cao,9.77,Mai Vũ,16/05/2026
+aef2ab2f-495f-42fc-bbc8-c77e29330fc4,Hoàng Nguyễn,100476704456,28/11/1985,0347854186,john80@example.com,"8 Jane Làng
+JohnThị xã, 506380",Tiểu đường,7.62,Hải Tấn Mai,10/01/2026
+9edd2182-33fd-462d-8057-e470be6127a8,Anh Quang Hoàng,448819929659,25/05/1975,0542264071,johnvu@example.com,"281 Nguyễn Số
+JaneQuận, 268746",Tiểu đường,6.82,Nam Đặng,25/03/2026
+27591ad4-0a39-4bf7-a7a1-58a0efffa2f4,Trọng Thị Hoàng,854989534565,16/01/1997,0554698700,jane98@example.com,"3 John Hẻm
+JaneThành phố, 466375",Huyết áp cao,4.42,Chị Dương Đặng,01/03/2026
+c0ae0b1a-f347-4736-b7ec-07a64b27b079,Ông Tú Đặng,532200375635,11/01/1968,0962718476,johndang@example.com,"48 Nguyễn Tổ
+JaneThành phố, 410833",Tim mạch,11.0,Bà Vân Trần,20/06/2026
+c5f833cf-f4ce-4477-b8bc-a9ac2ada62ce,Dương Trần,973289192875,18/11/1950,0540820047,janetran@example.org,"1 John Dãy
+JohnThành phố, 176806",Tim mạch,10.92,Lan Vũ,11/04/2026
+e9366a85-3a46-4be3-9255-a4de9330ba83,Huy Bùi,516917606195,04/06/1968,0941144919,ubui@example.org,"0 John Ngõ
+JohnHuyện, 925115",Tiểu đường,10.37,Trọng Trần,20/02/2026
+65262474-61a4-41ff-b00b-8b43ed3b9d13,Chi Lê,106533288422,09/06/1974,0879423126,janemai@example.com,"50 John Đường
+Thị xã JohnHuyện, 320256",Huyết áp cao,4.62,Trung Bảo Mai,26/01/2026
+d5b211a9-9dec-4b83-b885-8f7e2f1a25a8,Trung Trần,460196432616,24/09/1948,0582572654,maijane@example.net,"1 Trần Làng
+JaneHuyện, 234443",Khỏe mạnh,10.17,Cô Thảo Hoàng,13/01/2026
+735d88f3-7c61-46df-915a-6b4331891f48,Trọng Thế Hoàng,338862610278,14/08/1946,0912566491,jane62@example.org,"6 Đặng Hẻm
+JaneThị xã, 566991",Khỏe mạnh,6.87,Khoa Mai Bảo Mai,20/01/2026
+d77fbeeb-14fc-4a5d-9b4b-f377a542deb9,Hoàng Mai,481813508766,31/10/1949,0872521599,tranjohn@example.net,"3 Jane Dãy
+Huyện JaneQuận, 909652",Tim mạch,6.52,Hoàng Dương,01/04/2026
+808e08d2-5d26-4b1b-a593-b659172e8c68,Dương Phạm,140303420355,25/05/1997,0520575610,johnduong@example.org,"7 Nguyễn Làng
+JohnThành phố, 377198",Khỏe mạnh,10.11,Quang Thị Phạm,04/04/2026
+783c91eb-635a-41f2-9c7a-f83dca9d2704,Ông Hưng Đặng,715445277432,11/01/1943,0766760238,jane98@example.net,"91 Bùi Làng
+JaneHuyện, 610511",Tiểu đường,5.86,Ông Minh Lê,21/03/2026
+a4bae8bf-83b8-4a05-93bc-0dc63ae0acdb,Trung Lê,580691493360,19/02/1949,0574888065,john36@example.com,"7 Phạm Hẻm
+JohnQuận, 145240",Huyết áp cao,4.35,Chị Bảo Mai,08/01/2026
+2a955908-0e50-4fd8-a598-f38392803da2,Phúc Mai,949142972490,12/06/2005,0503775675,vujohn@example.org,"23 Hoàng Hẻm
+Huyện JohnPhường, 818894",Huyết áp cao,7.92,Bảo Quang Phạm,10/03/2026
+33cd1d56-043d-42db-9bcb-404c21d8b96a,Bảo Đức Lê,066290885750,26/03/1970,0841006473,maijohn@example.org,"8 Jane Số
+JohnPhường, 655552",Tim mạch,10.68,Lâm Mai Bảo Bùi,05/03/2026
+c2f43c10-e869-407c-bdcb-fffccdfba4e9,Kim Lê,735520422661,27/01/1954,0875231822,johnvu@example.net,"30 John Đường
+JohnPhường, 943356",Tim mạch,4.81,Huy Phú Trần,28/01/2026
+42e4bf01-40ee-431d-95da-d216a6cdae3c,Khoa Phú Hoàng,434374333652,11/08/1955,0565318824,apham@example.net,"588 Vũ Khu
+JanePhường, 244775",Tim mạch,6.88,Nhật Phạm,22/03/2026
+19abdc15-296b-47bf-b301-bb6cb3061300,Quý cô Vi Đặng,474113248933,15/12/1993,0930566761,lejane@example.net,"796 John Khu
+Huyện JohnXã, 139589",Huyết áp cao,10.69,Kim Thế Hoàng,11/01/2026
+a3ea21a2-2cde-4187-91fa-82a6c60b340c,Quý ông Nam Phạm,581374617017,02/08/1997,0874975548,john09@example.net,"2 Jane Làng
+Quận JohnHuyện, 917546",Tim mạch,9.3,Thành Hữu Bùi,16/04/2026
+b4209103-bca7-46eb-83ef-0f77848ac924,Hà Mai,498254179129,05/04/1956,0743302121,jane43@example.net,"JaneXã
+26 John Khu, 456480",Khỏe mạnh,10.95,Phương Vũ,07/06/2026
+400945ce-932c-4ec9-8b1b-8effd02a6cbb,Quý ông Nhiên Dương,002107251709,14/09/1991,0706861056,jane79@example.org,"633 Bùi Tổ
+Huyện JohnHuyện, 197527",Huyết áp cao,11.95,Hải Tấn Trần,10/04/2026
+5a81762a-5059-477b-b9ff-89d92db13deb,Bà Lan Phạm,069563986697,03/12/1971,0827759001,johnpham@example.com,"952 John Ngõ
+JohnXã, 144316",Khỏe mạnh,9.2,Bác Trọng Đặng,30/03/2026
+9313b3a7-e5a1-46e4-a188-6146fc40a3d4,Châu Lê,640008547840,10/05/2007,0304004945,jane39@example.org,"80 Bùi Hẻm
+JohnPhường, 643377",Huyết áp cao,8.53,Bác Nam Nguyễn,02/05/2026
+534fc96d-19ca-4c1b-94bc-f47a61223189,Trọng Đức Lê,730746698459,16/07/1975,0986083008,janeduong@example.net,"63 Đặng Tổ
+JaneThị xã, 288627",Tim mạch,7.07,Chị Hà Vũ,25/05/2026
+618192de-db37-4ca7-aea5-e3418e2ac3ff,Chị Vi Lê,765820629044,08/01/1970,0993821268,lejane@example.com,"44 Jane Ngõ
+Thành phố JohnHuyện, 599687",Huyết áp cao,6.29,Nhật Đặng,16/02/2026
+ee8d5daa-8eb7-4306-8f73-198e5c3d0d5f,Quang Nguyễn,259164575998,21/07/1965,0780730715,john99@example.net,"55 Dương Ngõ
+JaneThị xã, 762398",Tiểu đường,5.43,Chị Hải Đặng,17/03/2026
+d9518f98-679f-4f42-9256-d7079cc05b67,Hà Lê,243773762651,30/07/1960,0519554892,jane44@example.net,"59 Bùi Hẻm
+Thành phố JohnPhường, 346024",Tim mạch,3.9,Vũ Phạm,31/01/2026
+efd1b588-1054-42d5-9876-35761a5ed196,Ông Nam Bùi,853041903099,29/09/1973,0771494783,tranjane@example.net,"33 Dương Hẻm
+Quận JohnThành phố, 795781",Khỏe mạnh,11.99,Dũng Mai Bảo Dương,25/06/2026
+8c6d768e-45bc-43ba-af52-d36e8a63b93c,Anh Tùng Lê,278819894118,16/08/1978,0323561495,bhoang@example.net,"78 John Dãy
+JaneThị xã, 372427",Tim mạch,11.63,Bà An Nguyễn,05/04/2026
+5808d790-22e4-4628-9913-057dc21f84fc,Châu Mai,552172452586,06/02/1936,0878754286,tduong@example.org,"3 Jane Làng
+JaneThị xã, 362035",Tiểu đường,4.28,Quý cô Kim Phạm,17/02/2026
+84408e98-3d53-4c43-a015-2b5b6c17e150,Khoa Mai,815169830280,16/07/1994,0543929385,epham@example.org,"7 Vũ Dãy
+Huyện JohnQuận, 152042",Huyết áp cao,4.9,Lan Trần,20/02/2026
+ba23b07a-703c-4286-b717-14cd200291bb,Mai Trần,053385338556,29/06/1946,0865237818,vpham@example.com,"70 Trần Hẻm
+Huyện JaneThành phố, 669578",Tiểu đường,4.02,Anh Trung Vũ,28/05/2026
+f97f4994-1f38-4f55-833a-c4d6d4085391,Quý cô Vi Dương,202986330079,15/07/1953,0558481721,phamjane@example.net,"64 Lê Đường
+Huyện JanePhường, 413328",Huyết áp cao,6.35,Bà Xuân Nguyễn,05/06/2026
+3c6841d6-1ce8-412f-b928-7d2637c0f87a,Thành Văn Lê,437039362725,26/06/1993,0538966148,buijohn@example.org,"JohnHuyện
+271 Nguyễn Đường, 472787",Huyết áp cao,9.28,Cô Bảo Dương,11/02/2026
+a50784cb-c9df-401e-8ef0-0de1fb4f1972,Bảo Hoàng Nguyễn,999462706315,23/10/1985,0399235978,john40@example.com,"7 John Tổ
+JaneHuyện, 971733",Huyết áp cao,4.73,Cô Phương Lê,22/03/2026
+5dfb1922-8aa6-4006-836a-db9dd1c56a00,Ông Minh Bùi,327227020436,19/01/1989,0597073653,hoangjane@example.net,"8 Phạm Dãy
+Huyện JaneThị xã, 772036",Huyết áp cao,4.99,Tú Đức Mai,29/04/2026
+2138e2e6-f013-4170-95cf-3b4c0b34fc84,Cô Lâm Trần,562797035107,04/12/1970,0985297803,nguyenjane@example.net,"539 John Làng
+JohnThị xã, 939930",Tiểu đường,10.26,Linh Mai,14/05/2026
+5e7b4866-d270-4470-aa7b-e8b1e3f342a8,Ánh Hoàng,614924618878,24/11/1954,0858103317,tranjane@example.org,"386 John Làng
+Thị xã JohnPhường, 704570",Tiểu đường,8.28,Bảo Bảo Trần,31/01/2026
+81338bdc-66cc-4376-8cca-89632e2e77a4,Phúc Mai Đặng,232524010173,17/05/2001,0925894956,jane66@example.net,"8 Jane Khu
+JaneThị xã, 516379",Tim mạch,8.95,Yến Nguyễn,26/06/2026
+2294fa0a-8482-4c08-842c-65ad9883e9b1,Nam Vũ,362834400912,10/05/2007,0343964022,janenguyen@example.net,"075 John Khu
+JohnQuận, 368691",Khỏe mạnh,4.9,Vũ Hoàng,13/03/2026
+13c37b5d-bbf8-4a91-b7a9-f824eafa4d5b,Châu Xuân Dương,367580320628,09/10/1995,0321786051,hoangjane@example.org,"055 Bùi Ngõ
+Thành phố JaneThành phố, 419588",Tiểu đường,10.22,Linh Mai,12/04/2026
+388629ff-b2a0-4778-809d-644453ab3cce,Cô Hải Bùi,446621977412,19/05/2006,0879921060,phamjane@example.com,"517 Jane Khu
+Thị xã JanePhường, 236708",Huyết áp cao,9.22,Quý cô Phương Phạm,29/03/2026
+8fa8ae34-3233-4053-9242-ba54a6f9c0e1,Chị Hương Vũ,865231737220,13/03/1992,0848410420,john16@example.com,"59 Jane Hẻm
+JaneXã, 252901",Khỏe mạnh,9.47,Ông Quang Phạm,04/05/2026
+da4ec04c-ba7e-4b86-81fa-d75327ef0a4b,Hà Nguyễn,217480170027,27/03/1953,0810186880,janenguyen@example.com,"77 Jane Làng
+Quận JaneXã, 606489",Tiểu đường,5.54,Cô Kim Hoàng,13/06/2026
+2b9a118e-4165-464c-8b21-a30886dc4e34,Thảo Phạm,583604230124,07/02/1993,0840853584,john70@example.org,"5 John Khu
+JohnThị xã, 633243",Huyết áp cao,4.72,Thành Dương,06/06/2026
+32e97c2d-2fb9-4ccf-9688-85c288145bde,Ông Hưng Phạm,917475930414,27/10/2002,0813083107,jane76@example.net,"5 Vũ Làng
+JohnPhường, 370196",Khỏe mạnh,6.6,An Đức Phạm,28/01/2026
+23238416-a82c-4e18-a491-982be5ad481d,Nhật Bùi,675181131606,04/07/1973,0370561407,janepham@example.net,"5 Mai Hẻm
+Quận JohnQuận, 424008",Tiểu đường,8.32,Quý cô Bảo Hoàng,15/06/2026
+88702ae7-8ead-4a9a-915c-42cd51476e86,Bảo Đặng,072333667158,12/10/1996,0937280183,johndang@example.com,"42 John Hẻm
+Thành phố JaneXã, 694587",Tim mạch,4.12,Chị Mai Nguyễn,06/03/2026
+22538040-7a02-4a6d-87a2-b171b02a06ee,Bác Phúc Bùi,308920288061,15/05/1971,0912067537,johnpham@example.org,"63 John Ngõ
+Thị xã JanePhường, 440677",Huyết áp cao,4.79,Anh Huy Bùi,20/05/2026
+61603399-d307-4198-bc3e-b4029ba14c35,Thành Thị Mai,369378711446,22/06/1943,0312874788,pnguyen@example.net,"6 John Khu
+JaneHuyện, 911259",Huyết áp cao,6.5,Bảo Lê,18/03/2026
+b0a0c1cd-0df6-4527-ab45-bc389cf65e33,Quý cô Hải Dương,320565231173,04/02/1942,0709755409,lejohn@example.com,"279 Jane Ngõ
+JanePhường, 780081",Tim mạch,6.87,Cô Hà Trần,08/05/2026
+8618e40d-15d6-4658-9ce9-dbbca25291f3,Nhật Xuân Bùi,615019379473,02/09/1975,0362206681,lejane@example.net,"220 Vũ Khu
+JanePhường, 289473",Tim mạch,7.42,Bảo Phạm,01/01/2026
+75699aef-0320-4c4e-80cb-e188c3f0fac3,Quý ông Tùng Nguyễn,413812579857,17/11/1979,0942552664,npham@example.net,"71 John Khu
+Thành phố JohnQuận, 157738",Huyết áp cao,7.43,Hưng Trí Nguyễn,01/05/2026
+54c3b22e-4c66-4a4d-9a70-ea8ad6881d3e,An Trần,189742540940,06/12/1965,0557504663,johnvu@example.net,"95 John Khu
+JaneThị xã, 960109",Huyết áp cao,8.82,Kim Mai,12/01/2026

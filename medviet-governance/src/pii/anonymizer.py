@@ -1,5 +1,7 @@
 # src/pii/anonymizer.py
 import pandas as pd
+import random
+import hashlib
 from presidio_anonymizer import AnonymizerEngine
 from presidio_anonymizer.entities import OperatorConfig
 from faker import Faker
@@ -15,7 +17,7 @@ class MedVietAnonymizer:
 
     def anonymize_text(self, text: str, strategy: str = "replace") -> str:
         """
-        TODO: Anonymize text với strategy được chọn.
+        Anonymize text với strategy được chọn.
 
         Strategies:
         - "mask"    : Nguyen Van A → N****** V** A
@@ -27,7 +29,7 @@ class MedVietAnonymizer:
         if not results:
             return text
 
-        # TODO: implement operators dict dựa trên strategy
+        # implement operators dict dựa trên strategy
         operators = {}
 
         if strategy == "replace":
@@ -35,18 +37,42 @@ class MedVietAnonymizer:
                 "PERSON": OperatorConfig("replace", 
                           {"new_value": fake.name()}),
                 "EMAIL_ADDRESS": OperatorConfig("replace", 
-                                 {"new_value": ___}),   # TODO: fake email
+                                 {"new_value": fake.email()}),   # fake email
                 "VN_CCCD": OperatorConfig("replace", 
-                           {"new_value": ___}),          # TODO: fake CCCD
+                           {"new_value": "".join([str(random.randint(0,9)) for _ in range(12)])}),          # fake CCCD
                 "VN_PHONE": OperatorConfig("replace", 
-                            {"new_value": ___}),         # TODO: fake phone
+                            {"new_value": f"0{random.choice([3,5,7,8,9])}" + "".join([str(random.randint(0,9)) for _ in range(8)])}),         # fake phone
             }
         elif strategy == "mask":
-            # TODO: implement masking
-            pass
+            # implement masking
+            def mask_func(val: str) -> str:
+                # Keeps first char of each word, replaces the rest with *
+                words = val.split(" ")
+                res = []
+                for w in words:
+                    if len(w) > 1:
+                        res.append(w[0] + "*" * (len(w) - 1))
+                    else:
+                        res.append(w)
+                return " ".join(res)
+            
+            operators = {
+                "PERSON": OperatorConfig("custom", {"lambda": mask_func}),
+                "EMAIL_ADDRESS": OperatorConfig("custom", {"lambda": mask_func}),
+                "VN_CCCD": OperatorConfig("custom", {"lambda": mask_func}),
+                "VN_PHONE": OperatorConfig("custom", {"lambda": mask_func}),
+            }
         elif strategy == "hash":
-            # TODO: implement hashing dùng sha256
-            pass
+            # implement hashing dùng sha256
+            def hash_func(val: str) -> str:
+                return hashlib.sha256(val.encode("utf-8")).hexdigest()
+            
+            operators = {
+                "PERSON": OperatorConfig("custom", {"lambda": hash_func}),
+                "EMAIL_ADDRESS": OperatorConfig("custom", {"lambda": hash_func}),
+                "VN_CCCD": OperatorConfig("custom", {"lambda": hash_func}),
+                "VN_PHONE": OperatorConfig("custom", {"lambda": hash_func}),
+            }
 
         anonymized = self.anonymizer.anonymize(
             text=text,
@@ -57,7 +83,7 @@ class MedVietAnonymizer:
 
     def anonymize_dataframe(self, df: pd.DataFrame) -> pd.DataFrame:
         """
-        TODO: Anonymize toàn bộ DataFrame.
+        Anonymize toàn bộ DataFrame.
         - Cột text (ho_ten, dia_chi, email): dùng anonymize_text()
         - Cột cccd, so_dien_thoai: replace trực tiếp bằng fake data
         - Cột benh, ket_qua_xet_nghiem: GIỮ NGUYÊN (cần cho model training)
@@ -65,8 +91,17 @@ class MedVietAnonymizer:
         """
         df_anon = df.copy()
 
-        # TODO: Xử lý từng cột PII
-        # Gợi ý: dùng df.apply() hoặc list comprehension
+        # Xử lý từng cột PII
+        df_anon["ho_ten"] = df_anon["ho_ten"].astype(str).apply(lambda x: self.anonymize_text(x, strategy="replace"))
+        df_anon["dia_chi"] = df_anon["dia_chi"].astype(str).apply(lambda x: self.anonymize_text(x, strategy="replace"))
+        df_anon["email"] = df_anon["email"].astype(str).apply(lambda x: self.anonymize_text(x, strategy="replace"))
+
+        df_anon["cccd"] = df_anon["cccd"].apply(
+            lambda x: "".join([str(random.randint(0,9)) for _ in range(12)])
+        )
+        df_anon["so_dien_thoai"] = df_anon["so_dien_thoai"].apply(
+            lambda x: f"0{random.choice([3,5,7,8,9])}" + "".join([str(random.randint(0,9)) for _ in range(8)])
+        )
 
         return df_anon
 
@@ -74,7 +109,7 @@ class MedVietAnonymizer:
                                   original_df: pd.DataFrame,
                                   pii_columns: list) -> float:
         """
-        TODO: Tính % PII được detect thành công.
+        Tính % PII được detect thành công.
         Mục tiêu: > 95%
 
         Logic: với mỗi ô trong pii_columns,
@@ -91,3 +126,4 @@ class MedVietAnonymizer:
                     detected += 1
 
         return detected / total if total > 0 else 0.0
+
